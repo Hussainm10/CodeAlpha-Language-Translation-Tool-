@@ -1,4 +1,5 @@
 English to Hindi Translation Tool
+
 This Python script translates text from English to Hindi using the Hugging Face Transformers API. It provides an interactive command-line interface that prompts the user to enter the text to be translated.
 
 Features
